@@ -5,7 +5,7 @@
 # Add Forced Air Central Electric Thermal Storage
 
 ## Description
-This measures adds a forced air central Electric Thermal Storage (ETS) to the current building model.
+This measures adds a forced-air central Electric Thermal Storage (ETS) device to the current building model.
 
 ## Modeler Description
 Code developped M. Mathieu Laroche, M.Sc. Supervised by Mme. Katherine DAvignon, Ph.D & Danielle Monfet, PhD, with the support of M. François Laurencelle, Ph.D.
@@ -253,6 +253,7 @@ This will not change reporting frequency for existing output variables in the mo
 **Model Dependent:** false
 
 **Choice Display Names** ["None", "NotByUniqueKeyNames", "Verbose"]
+
 
 
 
