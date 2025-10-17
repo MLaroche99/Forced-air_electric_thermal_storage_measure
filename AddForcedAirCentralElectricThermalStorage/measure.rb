@@ -7,7 +7,7 @@ class AddForcedAirCentralElectricThermalStorage < OpenStudio::Measure::ModelMeas
 
   # human readable description
   def description
-    return 'This measures adds a forced air central Electric Thermal Storage (ETS) to the current building model.'
+    return 'This measures adds a forced-air central Electric Thermal Storage (ETS) device to the current building model.'
   end
 
   # human readable description of modeling approach
