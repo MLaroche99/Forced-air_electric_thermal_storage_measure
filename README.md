@@ -3,7 +3,7 @@ This repository contains an OpenStudio measure modelling the performance and con
 The model is presented in the following article [article link to come] and further instructions are presented within the documentation attached to the measure.
 This work has been developped as part of a graduate research project at the Ecole de technologie supérieure (ETS) and the Laboratoire des technologies de l'énergie (LTE) of Hydro-Québec.
 
-The second measure, titled "remove_orphaned_object_from_IDF", is meant to be run before adding new ETS devices to the model to prevent fatal errors.
+The second measure, titled "remove_orphaned_object_from_IDF", is meant to be run before adding new thermal storage devices to the model to prevent fatal errors.
 
 Developer: Mathieu Laroche | mathieu.laroche.2@ens.etsmtl.ca
 
