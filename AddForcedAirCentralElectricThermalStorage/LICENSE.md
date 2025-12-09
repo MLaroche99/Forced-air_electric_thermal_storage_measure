@@ -1,4 +1,4 @@
-Substantial parts of the code from ETS-Openstudio-Measure used in this work:
+Substantial parts of the code from Houssem-Eddine-Younes/ETS-Openstudio-Measure: ETS_OS_MEASURE_V1.0.0 used in this work:
 
 Copyright (c) 2023 Houssem Eddine Younes
 Licensed under MIT License
