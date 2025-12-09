@@ -1,9 +1,9 @@
-# Substantial parts of the code from ETS-Openstudio-Measure used in this work
+#Substantial parts of the code from ETS-Openstudio-Measure used in this work
 Copyright (c) 2023 Houssem Eddine Younes
 Licensed under MIT License
 See original license below.
 
-# Additions and modifications to the code
+#Additions and modifications to the code
 Copyright (c) 2025 Mathieu Laroche
 Licensed under the MIT License.
 
