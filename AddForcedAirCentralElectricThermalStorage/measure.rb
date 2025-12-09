@@ -12,7 +12,7 @@ class AddForcedAirCentralElectricThermalStorage < OpenStudio::Measure::ModelMeas
 
   # human readable description of modeling approach
   def modeler_description
-    return 'Code developped M. Mathieu Laroche, M.Sc. Supervised by Mme. Katherine DAvignon, Ph.D & Danielle Monfet, PhD, with the support of M. François Laurencelle, Ph.D.'
+    return 'Code developped Mathieu Laroche, M.Sc. Supervised by Katherine DAvignon, Ph.D & Danielle Monfet, Ph.D, based on the work of Younes, D'Avignon, & Laurencelle, F. (2023) https://doi.org/10.5281/zenodo.10215082'
   end
 
   # define the arguments that the user will input
@@ -1121,3 +1121,4 @@ class AddForcedAirCentralElectricThermalStorage < OpenStudio::Measure::ModelMeas
 end # end the measure
 
 AddForcedAirCentralElectricThermalStorage.new.registerWithApplication
+
