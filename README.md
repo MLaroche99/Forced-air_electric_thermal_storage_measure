@@ -10,4 +10,4 @@ Developer: Mathieu Laroche | mathieu.laroche.2@ens.etsmtl.ca
 Research supervisors: Katherine D'Avignon, PhD (ETS) and Danielle Monfet, PhD (ETS) 
 With the agreement and support of François Laurencelle, PhD (LTE)
 
-Please give appropriate credit in any publications when you use the measure for your simulations. You may cite the model repository's own DOI() and note the specific version used
+Please give appropriate credit in any publications when you use the measure for your simulations. You may cite the model repository's own DOI(10.5281/zenodo.17913101) and note the specific version used
